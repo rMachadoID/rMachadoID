@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafael Machado</h1>
 <h3 align="center">A passionate Back-end developer from Brazil</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/rafael machado" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="rafael machado" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img
       src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40" /> </a> <a
@@ -43,12 +36,14 @@
 
 
 <div align="center">
-  [![GitHub
-  Streak](http://github-readme-streak-stats.herokuapp.com?user=rMachadoID&theme=transparent&border_radius=7.3&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   <a href="https://github.com/rMachadoID">
-    <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rMachadoID&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> -->
-    <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rMachadoID&layout=compact&langs_count=7&theme=react"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rMachadoID&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rMachadoID&layout=compact&langs_count=7&theme=react"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rMachadoID&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> -->
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rMachadoID&layout=compact&langs_count=7&theme=react"/> -->
 </div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
 
 ##
